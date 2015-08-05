@@ -5,7 +5,7 @@
 //  Created by Sanjay Kumar on 14/11/14.
 //  Copyright (c) 2014 Sanjay Kumar. All rights reserved.
 //
-
+//
 #import "ViewController.h"
 
 @interface ViewController ()
@@ -18,6 +18,13 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
+/*
+ - (void)viewDidLoad {
+ [super viewDidLoad];
+ // Do any additional setup after loading the view, typically from a nib.
+ }
+ 
+ */
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
